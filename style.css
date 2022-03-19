@@ -1,0 +1,22 @@
+.header{
+    background-color: red;
+    width: 100%;
+    height: 50px;
+}
+
+#judul{
+    color: white;
+    padding-left: 50px;
+    padding-top: 10px;
+}
+
+.cari{
+    width: 100%;
+    height: 150px;
+    align-content: center;
+}
+#search{
+    width: 90%;
+    padding-left: 80px;
+    padding-top: 50px;
+}
